@@ -51,6 +51,13 @@ https://arxiv.org/abs/2212.12189
 ### The Elements of Statistical Learning
 https://hastie.su.domains/Papers/ESLII.pdf
 
+
+### Trevor Hastie - Gradient Boosting Machine Learning
+(Del autor del libro The Elements of Statistical Learning)
+
+https://www.youtube.com/watch?v=wPqtzj5VZus
+
+
 ### Foundations of Data Science
 https://www.cs.cornell.edu/jeh/book.pdf
 
@@ -70,6 +77,11 @@ https://christophm.github.io/interpretable-ml-book/
 
 ### Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning
 https://arxiv.org/abs/1811.12808
+
+### Explainable AI for Science and Medicine - Microsoft Research
+
+https://www.youtube.com/watch?v=B-c8tIgchu0
+
 
 <!-- -------------------Separador Header ------------- -->
 
